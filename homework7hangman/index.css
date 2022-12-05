@@ -1,0 +1,20 @@
+.checkbox {
+/* background-color:a; */
+/* width: 200px; */
+/* margin: 3px; */
+
+
+
+}
+.box {
+    display: inline;
+    
+    border-radius: 3px;
+    border-color: black;
+    color: orange;
+    margin: 3px;
+    color: black;
+    width: 100px;
+    background-color: beige;
+}
+
